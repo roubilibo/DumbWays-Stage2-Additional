@@ -5,14 +5,12 @@
 // var audience: number
 // audience = 21
 
-
-// // null, undefined, 0
+// null, undefined, 0
 // const block = null
 
 // let gender = undefined
 
 // const height = 0
-
 
 // let profile = {
 //   name: "Guswandi",
@@ -20,13 +18,12 @@
 //   age: 23
 // }
 
-
-// // interface vehicle {
-// //   type: string
-// //   model: string
-// //   year: number
-// //   status: string
-// // }
+// interface vehicle {
+//   type: string
+//   model: string
+//   year: number
+//   status: string
+// }
 
 // const motorcycle: vehicle = {
 //   type: "Honda",
@@ -42,13 +39,9 @@
 //   status: "credit"
 // }
 
-
-
 // let fruit: any[] = ["Apple", 100, true, { type: "fruit"}]
 // let fruits: string[] = ["Apple", "Banana", "Mango", "Orange"]
 // let fruitss: Array<string> = ["Apple", "Banana", "Mango", "Orange"]
-
-
 
 // // ######################## ARRAY OF OBJECT USING A INTERFACE ##################
 // interface vehicle {
@@ -79,7 +72,3 @@
 //   },
 // ]
 // console.log(vehicles)
-
-
-
-
