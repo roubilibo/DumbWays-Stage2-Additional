@@ -3,18 +3,18 @@
 // }
 
 const obj = {
-  "name": "Dandi",
-  "gender": "Sangat Lelaki",
-  "status": "lajang"
-}
+	name: "Dandi",
+	gender: "Sangat Lelaki",
+	status: "lajang",
+};
 
 for (const key in obj) {
-  console.log(key)
+	console.log(key);
 }
 
-let arr = [1, 2, 3, 4]
+let arr = [1, 2, 3, 4];
 for (const key of arr) {
-  console.log(key);
+	console.log(key);
 }
 
 // npm install -g typescript
